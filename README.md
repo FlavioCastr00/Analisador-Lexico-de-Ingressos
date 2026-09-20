@@ -105,3 +105,21 @@ gramatica = gramatica_ingresso.replace(
     f"DATA_VAL.{prioridade_data.value}"
 )
 ```
+
+## Saídas do Programa
+
+Abaixo, temos alguns exemplos de saída do programa:
+
+### Exemplos de entradas que o analisador reconhece:
+
+<img width="1274" height="475" alt="image" src="https://github.com/user-attachments/assets/7aea8a3f-d7f4-42db-9e85-d9298c8ca2db" />
+
+<img width="1267" height="479" alt="image" src="https://github.com/user-attachments/assets/94f397de-7dc4-40ac-bef0-970566f818ae" />
+
+### Exemplo de entradas que geram erro de compilação:
+
+<img width="1273" height="264" alt="image" src="https://github.com/user-attachments/assets/8d61190b-c127-47dc-bcf1-b984ae28a24a" />
+
+<img width="1261" height="271" alt="image" src="https://github.com/user-attachments/assets/16f48056-20e4-4ad6-99e0-57fd4cd476c6" />
+
+
